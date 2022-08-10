@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;07-E22-ExempleFichierObjetArrayList-menu de gestion(bon pour labo2) Partie 2&apos;&#x0D;&#x0A;- Original project: &apos;07-E22-ExempleFichierObjetArrayList-menu de gestion(bon pour labo2) Partie 2&apos;&#x0D;&#x0A;- Original element: &apos;Utilitaires.java&apos;" description="Delete element" element1="/src&lt;{Utilitaires.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1655819909581" subPackages="false" version="1.0"/>
+</session>

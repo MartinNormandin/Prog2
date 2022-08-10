@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="586"/>
+		<item key="DIALOG_Y_ORIGIN" value="127"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="580"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\e2295365\eclipse-workspace\Labo2-Java"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\Labo2"/>
+			<item value="C:\Users\e2295365\eclipse-workspace"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\ExempleES"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\Tableaux_Methodes"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\e2295365\eclipse-workspace\10-E22-Sérialisation-Fichier_Objets-Interface_Comparable_tri(bon labo 3)-partie1"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\12-E22-Sérialisation-Fichier_Objets-Interface_Comparable_tri-Map-Héritage-Utilitaires(bon labo 3)-partie4"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\14-E22-Sérialisation-Fichier_Objets-ArrayList-Héritage"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\13-E22-Sérialisation-Fichier_Objets-Interface_Comparable_tri-Map-Héritage-Utilitaires(bon labo 3)-final"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\Labo2-Java"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\09-E22-Exemple-Aide-Labo3-Vols-partie1"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\08-E22-ExempleFichiersObjetsArrayList-menu de gestion(bon labo 2-examen)-final"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\07-E22-ExempleFichiersObjetsArrayList-menu de gestion(bon labo 2)-partie2"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\Labo1_Partie2"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\07-E22-ExempleFichierObjetArrayList-menu de gestion(bon pour labo2) Partie 2"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\Labo 2 partie 1"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\06-E22-ExempleFichierObjetArrayList-menu de gestion(bon pour labo2)"/>
+			<item value="C:\Users\e2295365\eclipse-workspace\05-E22-ExempleFichierObjetArrayList"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
